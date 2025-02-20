@@ -8,7 +8,7 @@ This project aims to analyze traffic density using vehicle counting data from th
 - Visualize traffic data for better interpretation.
 
 ## 🗂️ Data Source
-- İzmir Metropolitan Municipality Open Data Portal: [Access the Data](https://acikveri.bizizmir.com)
+- İzmir Metropolitan Municipality Open Data Portal: [Access the Data]([https://acikveri.bizizmir.com](https://acikveri.bizizmir.com/en/dataset/izmir-ili-arac-sayim-verileri/resource/25866cc4-298a-4ee7-bfd3-719ea7f530b2)
 
 ## 🛠️ Tools & Libraries Used
 - Python (Pandas, Matplotlib, Seaborn, OpenPyXL)
