@@ -1,4 +1,4 @@
-# İzmir Traffic Data Analysis 🚗📊
+# İzmir Traffic Data Analysis
 
 This project aims to analyze traffic density using vehicle counting data from the main arteries of İzmir, provided by the İzmir Metropolitan Municipality. The study focuses on examining hourly traffic flow and visualizing key insights.
 
