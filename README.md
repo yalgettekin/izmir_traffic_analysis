@@ -19,19 +19,6 @@ This project aims to analyze traffic density using vehicle counting data from th
 - Peak hour analysis.
 - PDF Report (available in the `outputs/` folder).
 
-## 📁 Project Structure
-izmir_traffic_analysis/ │ 
-			├── data/
-			│ └── izbb-izum-anaarter-arac-sayim-guncel.xlsx 			
-      ├── notebooks/ 
-			│ └── 1_Izmir Traffic Analysis.ipynb 
-			├── outputs/ 
-			│ └── izmir_traffic_analysis_report.pdf 
-			├── src/ 
-			│ └── 1_Izmir Traffic Analysis.py 
-			├── README.md 
-			└── requirements.txt
-
 📄 Project Report
 [View PDF Report](https://github.com/yalgettekin/izmir_traffic_analysis/blob/main/outputs/1_Izmir%20Traffic%20Analysis.pdf)
 
